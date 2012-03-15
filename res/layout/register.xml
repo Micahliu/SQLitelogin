@@ -45,6 +45,7 @@
                 android:id="@+id/passwordRegister"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
+                android:password="true"
                 android:hint="请输入密码！！！" />
         </TableRow>
 
